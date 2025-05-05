@@ -1,0 +1,2 @@
+{"id": 31, "inst/question": "Ivan can grade 25 quizzes per hour. Find how many quizzes Ivan can grade in 4 hours.", "inst/gold_answer": 100.0, "plan": "Python Program"}
+{"id": 32, "inst/question": "Taylor makes 18 dollars per hour at her job. Find how many dollars Taylor earns in 3.5 hours.", "inst/gold_answer": 63.0, "plan": "Python Program"}
