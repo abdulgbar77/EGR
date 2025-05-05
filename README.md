@@ -72,5 +72,5 @@ bash src/eval.sh
 
 ## 💬 Contact
 
-Please create Github issues here or email [Yongheng Zhang](mailto:zyhbrz@gmail.com) or [Qiguang Chen](mailto:charleschen2333@gmail.com) or [Libo Qin](mailto:lbqin@csu.edu.cn) if you have any questions or suggestions.
+Please create Github issues here or email [Abdulgbar Ali](mailto:abdualgbar.ali@gmail.com) if you have any questions or suggestions.
 
