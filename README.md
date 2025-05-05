@@ -37,7 +37,7 @@ DATASET='dataset_name'
 MODEL='model_name'
 ```
 
-where  [dataset_name] in ['gsm', 'gsmhard', 'algebra', 'addsub', 'singleop', 'singleeq', 'multiarith', 'svamp'].
+where  [dataset_name] in ['gsm', 'gsmhard', 'algebra', 'addsub', 'singleop', 'svamp'].
 
 ---
 
