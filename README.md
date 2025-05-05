@@ -1,4 +1,4 @@
-# Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information (WoT)
+# Errors-Guided Reasoning: Enhanced Framework for Mathematical Reasoning and Multi-Incorrect Feedback in LLM
 
 
 <div>
@@ -7,7 +7,8 @@
 </div>
 
 \
-📷 This is the code repository for the paper: Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information. **EMNLP 2024 Findings**.
+📷 This is the code repository for the paper: Wrong-of-Thought: Errors-Guided Reasoning: Enhanced Framework for Mathematical Reasoning
+ and Multi-Incorrect Feedback in LLM. **EMNLP 2025 Findings**.
 
 <div>
 <img src="./img/framework.png" width="100%">
